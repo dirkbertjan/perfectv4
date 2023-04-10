@@ -10,7 +10,7 @@
    "do_eval": true,
    "do_predict": true,
    "learning_rate": 1e-4,
-  "max_steps": 6000, 
+  "max_steps": 5, 
   "eval_steps": 100, 
   "save_steps": 100,
   "data_seed": 100,
