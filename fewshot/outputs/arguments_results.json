@@ -21,7 +21,7 @@
     "load_best_model_at_end": true,
     "mask_position": "1",
     "max_seq_length": 256,
-    "max_steps": 5,
+    "max_steps": 10,
     "metric_for_best_model": "average",
     "model_name_or_path": "roberta-large",
     "output_dir": "outputs",
